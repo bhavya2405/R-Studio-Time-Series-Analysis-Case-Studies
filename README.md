@@ -1,1 +1,2 @@
 # Time-Series-Analysis-Case-Studies
+In this project, we will dive into three intriguing case studies and leverage historical data to perform impactful time series analysis using the powerful R programming language. By delving deep into the data, we aim to uncover valuable insights and patterns that can drive informed decision-making. Through meticulous analysis, we will explore the dynamic nature of the data and extract meaningful trends, uncover hidden relationships, and make accurate predictions.
